@@ -7,7 +7,7 @@
     "firebase": "^12.5.0",
     "node-fetch": "^3.3.2"
   },
-  "name": "login-signup_auth_firebase",
+  "name": "Authentication_Firebase",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Drin-K/Login-SignUp_Auth_Firebase/issues"
+    "url": "https://github.com/enesispahiu/Authentication_Firebase"
   },
-  "homepage": "https://github.com/Drin-K/Login-SignUp_Auth_Firebase#readme"
+  "homepage": "https://github.com/enesispahiu/Authentication_Firebase/blob/main/README.md"
 }
