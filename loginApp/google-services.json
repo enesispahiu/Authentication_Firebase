@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248537127666",
+    "project_id": "projektperpajisje",
+    "storage_bucket": "projektperpajisje.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248537127666:android:adbe684dbe8a12ca4c8e6b",
+        "android_client_info": {
+          "package_name": "com.enes_s.loginApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv8W77NdJKlkbzHn5Zvz99oAmgilNI0a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
